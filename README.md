@@ -6,4 +6,4 @@ Lazy one-click script
 - Shadowrocket
 </span>
 
-https://raw.githubusercontent.com/mgxray/shadowrocket-Quantumult_x-Loon-Stash/main/Lazy%20one-click%20script/shadowrocket.conf
+    https://raw.githubusercontent.com/mgxray/shadowrocket-Quantumult_x-Loon-Stash/main/Lazy%20one-click%20script/shadowrocket.conf
