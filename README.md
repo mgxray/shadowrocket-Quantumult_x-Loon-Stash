@@ -2,19 +2,19 @@
 
 ## 懒人包大佬：玉桂
 
-- Shadowrocket
+## - Shadowrocket
 </span>
 
     https://raw.githubusercontent.com/mgxray/shadowrocket-Quantumult_x-Loon-Stash/main/Lazy%20one-click%20script/shadowrocket.conf
-- QuantumultX
+## - QuantumultX
 </span>
 
     https://raw.githubusercontent.com/mgxray/shadowrocket-Quantumult_x-Loon-Stash/main/Lazy%20one-click%20script/quantumultx.conf
-  - Loon
+## - Loon
 </span>
 
     https://raw.githubusercontent.com/mgxray/shadowrocket-Quantumult_x-Loon-Stash/main/Lazy%20one-click%20script/loon.conf
-  - Stash
+## - Stash
 </span>
 
     https://raw.githubusercontent.com/mgxray/shadowrocket-Quantumult_x-Loon-Stash/main/Lazy%20one-click%20script/stash.yaml
