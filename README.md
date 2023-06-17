@@ -1,5 +1,5 @@
 # shadowrocket-Quantumult_x-Loon-Stash
-# shadowrocket|Quantumult_x|Loon|Stash
+
 
 # Lazy one-click script
 # 懒人包大佬：玉桂
