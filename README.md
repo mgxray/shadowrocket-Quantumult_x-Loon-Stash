@@ -1,4 +1,4 @@
-# shadowrocket-Quantumult_x-Loon-Stash
+# shadowrocket/Quantumult x/Loon/Stash
 
 ## 懒人包大佬：玉桂
 
